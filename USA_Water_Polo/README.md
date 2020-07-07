@@ -1,1 +1,1 @@
-This project is a work in progress. I'll clean and analyze participant data for the National Junior Olympics to determine where the sport's growth across the US.
+This project is a work in progress. I've converted tournament ranking data from pdf, scraped club information using Beautiful Soup, and cleaned and merged the two datasets. As a next step I'll create a data visualization to show how participation in the sport has grown across the country over the last 9 years. 
